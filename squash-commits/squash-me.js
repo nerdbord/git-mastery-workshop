@@ -1,1 +1,1 @@
-const fruits = []
+const fruits = ["apple", "banana", "strawberry", "peach"]
