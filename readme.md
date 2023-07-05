@@ -15,3 +15,6 @@ To participate in this workshop, you will need:
 
 ### Space for conflict
 Did you know that you can use `git blame` to find out who last modified each line of a file? Just run `git blame <file>` to see the commit hash and author for each line.
+
+### Testing
+Testing first commit
