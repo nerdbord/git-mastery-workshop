@@ -1,1 +1,1 @@
-console.log('I want to be reverted!')
+console.log('I want to be reverted ok!')
